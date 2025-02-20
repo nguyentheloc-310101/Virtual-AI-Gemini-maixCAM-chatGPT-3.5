@@ -1,4 +1,3 @@
-# services/camera_service.py
 import cv2
 from config import CAMERA_INDEX
 
